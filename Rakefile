@@ -8,7 +8,7 @@ require 'cucumber/formatter/ansicolor'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "cucumber"
+    gem.name = "kbaum-cucumber"
     gem.summary = %Q{Behaviour Driven Development with elegance and joy}
     gem.description = %Q{A BDD tool written in Ruby}
     gem.email = "cukes@googlegroups.com"

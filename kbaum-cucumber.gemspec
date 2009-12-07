@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{kbaum-cucumber}
-  s.version = "0.4.4.1"
+  s.version = "0.4.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Aslak Helles\303\270y"]
-  s.date = %q{2009-12-06}
+  s.date = %q{2009-12-07}
   s.default_executable = %q{cucumber}
   s.description = %q{A BDD tool written in Ruby}
   s.email = %q{cukes@googlegroups.com}
@@ -674,7 +674,6 @@ for important information about this release. Happy cuking!
      "examples/selenium_webrat/features/support/env.rb",
      "examples/self_test/features/step_definitions/sample_steps.rb",
      "examples/self_test/features/support/env.rb",
-     "examples/self_test/tmp/features/step_definitions/steps.rb",
      "examples/sinatra/app.rb",
      "examples/sinatra/features/step_definitions/add_steps.rb",
      "examples/sinatra/features/support/env.rb",
